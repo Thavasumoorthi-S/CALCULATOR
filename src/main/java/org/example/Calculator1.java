@@ -1,6 +1,4 @@
 package org.example;
-import org.example.Operation;
-import org.example.Basic;
 import java.util.Scanner;
 import java.util.logging.Logger;
 

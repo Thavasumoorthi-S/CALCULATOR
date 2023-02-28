@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="060fbb10-d3ab-4a44-8d8d-303170d3639b" name="Changes" comment="">
+    <list default="true" id="060fbb10-d3ab-4a44-8d8d-303170d3639b" name="Changes" comment="first">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Basic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Calculator1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Calculator1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Operation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +42,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Tringapps-User8/IdeaProjects/CALCULATOR"
+    "last_opened_file_path": "C:/Users/Tringapps-User8/IdeaProjects/ContactDs"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -58,6 +54,25 @@
       <option name="presentableId" value="Default" />
       <updated>1677522329070</updated>
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1677523215087</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677523215087</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first">
+      <created>1677523306164</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677523306164</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
   </component>
 </project>
