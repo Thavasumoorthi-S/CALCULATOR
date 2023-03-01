@@ -2,7 +2,7 @@ package org.example;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-class Basic extends Operation
+class Basic implements Operation
 {
     Logger logger=Logger.getLogger("com-api-jar");
     double num1;

@@ -1,9 +1,9 @@
 package org.example;
-abstract class Operation
+interface Operation
 {
-    abstract void check1();
-    abstract void  check2();
-    abstract  void display1();
-    abstract  void display2();
+    void check1();
+    void  check2();
+    void display1();
+    void display2();
 
 }
